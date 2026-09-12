@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c2b958c8c634c339726df3eda09bfa5073fb4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b93309cc8cf279d961faaf709c952a1512a960")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

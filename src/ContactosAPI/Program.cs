@@ -40,5 +40,4 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
 
-//Comentario para que no me de error el test, ya que no encuentra la clase Program, y es necesario para poder hacer el test de integración
 public partial class Program { } // Expose Program class for testing

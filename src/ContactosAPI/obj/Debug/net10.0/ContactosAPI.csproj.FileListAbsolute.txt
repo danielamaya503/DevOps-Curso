@@ -32,3 +32,6 @@ D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\obj\Debug\net10.
 D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\obj\Debug\net10.0\ContactosAPI.pdb
 D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\obj\Debug\net10.0\ContactosAPI.genruntimeconfig.cache
 D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\obj\Debug\net10.0\ref\ContactosAPI.dll
+D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\Git-repo\ReactNative-curso\DevOps-Curso\src\ContactosAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
